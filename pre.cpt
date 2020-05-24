@@ -1,0 +1,14 @@
+# Color table for topography
+# Designed by P. Wessel, SOEST
+#
+# COLOR_MODEL = RGB
+#
+0	mediumseagreen		800	burlywood
+800	burlywood	1600	darkorange3
+1600	darkorange3	2400	saddlebrown
+2400	saddlebrown	3200	bisque2
+3200	bisque2		4000	ivory2
+4000	ivory2		6000	snow1
+B	black
+F	white
+N	gray
